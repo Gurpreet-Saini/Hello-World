@@ -99,10 +99,12 @@ Elixir is a functional, concurrent, general-purpose programming language that ru
 Erlang is a general purpose or you might say a functional programming language and runtime environment. It was built in such a way that it had inherent support for concurrency, distribution and fault tolerance. Erlang was originally developed to be used in several large telecommunication systems. But it has now slowly made its foray into diverse sectors like ecommerce, computer telephony and banking sectors as well.
 
 - [x] **F#**
+F# is a mature, open source, cross-platform, functional-first programming language. It empowers users and organizations to tackle complex computing problems with simple, maintainable and robust code.
 
 - [x] **Fortran**
 
 - [x] **Go**
+Go is a really flexible language, able to solve a lot of problems. You can use it for system and network programming, big data, machine learning, audio and video editing, and more.
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
@@ -127,6 +129,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
 
 - [x] **Julia**
+Julia is faster than Python because it is designed to quickly implement the math concepts like linear algebra and matrix representations. ... For codes that are equally big and complex written in both the languages, Julia takes lesser time, at speeds of the same order of magnitude of C or Fortran, compared to Python.
 
 - [x] **Juliar**
 
@@ -167,6 +170,7 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Prolog**
 
 - [x] **Python**
+Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
 - [x] **R**
 
