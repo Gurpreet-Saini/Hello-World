@@ -109,6 +109,7 @@ Go is a really flexible language, able to solve a lot of problems. You can use i
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
 - [x] **Groovy**
+Groovy can be used as a scripting language for the Java platform. It is almost like a super version of Java which offers Java's enterprise capabilities. It also offers many productivity features like DSL support, closures, and dynamic typing.
 
 - [x] **Haskell**
 
